@@ -1,7 +1,7 @@
 package assignment;
 
 public class Employees {
-	
+	//Creating variables
 	String EmployeeName1 = "Bharath";
 	String EmployeeName2 = "ABC";
 	String EmployeeName3 = "XYZ";
