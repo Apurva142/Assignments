@@ -24,7 +24,7 @@ public class Assignment7_ConditionalStatements {
 						System.out.println(customerName+":Your loan is approved.");	
 						}
 						if(debtToIncomeRatio>=40) {
-						System.out.println("Your loan is denied.");	
+						System.out.println("Your loan is denied as it didnot meet the Debit to income ratio criteria.");	
 						}
 					}
 					if(isEmployed = false) {
@@ -34,7 +34,7 @@ public class Assignment7_ConditionalStatements {
 
 		}
 		else if (creditScore<650){
-			System.out.println("Your loan is denied.");
+			System.out.println("Your loan is denied as credit score is less than 650.");
 		}
 
 	}
